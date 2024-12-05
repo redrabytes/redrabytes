@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Redrabytes</h1>
-<h3 align="center">Threat & C2 hunter, Developer, Offensive Security.</h3>
+# Red
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=redrabytes&label=Profile%20views&color=ff5555&style=flat" alt="redrabytes" /></p>
 
-<p align="center"> - 🔭 I’m currently working on <a href="https://github.com/redrabytes/anqet">Anqet</a> </p>
+ [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/redrabytes)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/redrabytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redrabytes" height="30" width="40" /></a>
-</p>
+ [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:redrabytes@mailfence.com)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redrabytes) 
+ 
+- 💻 Creator of  [**Anket**](https://github.com/redrabytes/anket), a tool designed to detect botnet C2s and track malware activity.
+- 🤖 Currently focused on improving Anket and enhancing its capabilities for cybersecurity.
+- 🌱 Passionate about security research and learning more about network protocols, malware detection, and C2 tracking.
+- 📫 How to reach me: redrabytes@mailfence.com
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redrabytes&theme=dark" alt="redrabytes" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=redrabytes&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="redrabytes" /></p>
+### 🖥 Skills
+
+- Network protocols
+- Cybersecurity
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=000000) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=000000) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=Node.js&color=000000) ![Bootstrap](https://img.shields.io/badge/-Nginx-05122A?style=flat-square&logo=Nginx&color=000000) ![Bootstrap](https://img.shields.io/badge/-Selenium-05122A?style=flat-square&logo=Selenium&color=000000) ![Bootstrap](https://img.shields.io/badge/-Puppeteer-05122A?style=flat-square&logo=Puppeteer&color=000000) ![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=Postman&color=000000) ![Bootstrap](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=Shell&color=000000) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=000000) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=000000)
