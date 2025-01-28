@@ -1,4 +1,4 @@
-# Red (saslu/sa5lu)
+# Red (saslu/5aslu)
 
 
  [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/redrabytes)
